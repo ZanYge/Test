@@ -13,7 +13,7 @@ public class ThreadTest04 {
             //礼让别人进来
             Thread.yield();
         }
-
+        System.out.println("11111");
 
     }
 }
