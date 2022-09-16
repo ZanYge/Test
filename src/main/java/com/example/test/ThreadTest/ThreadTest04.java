@@ -13,10 +13,6 @@ public class ThreadTest04 {
             //礼让别人进来
             Thread.yield();
         }
-        System.out.println("11111");
-        System.out.println("sadad");
-        System.out.println("123123111");
-        System.out.println("13212313");
     }
 }
 
