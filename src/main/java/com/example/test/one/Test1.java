@@ -19,5 +19,10 @@ public class Test1 {
         System.out.println(dogNameList);
         System.out.println("你和啊啊啊");
         System.out.println("你和啊啊啊");
+        System.out.println("你和啊啊啊");
+        System.out.println("你和啊啊啊");
+        System.out.println("你和啊啊啊");
+        System.out.println("你和啊啊啊");
+        System.out.println("你和啊啊啊");
     }
 }
