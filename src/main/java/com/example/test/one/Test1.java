@@ -17,5 +17,6 @@ public class Test1 {
             }
         }
         System.out.println(dogNameList);
+        System.out.println("死");
     }
 }
