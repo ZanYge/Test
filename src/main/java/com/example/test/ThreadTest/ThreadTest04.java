@@ -15,7 +15,7 @@ public class ThreadTest04 {
         }
         System.out.println("11111");
         System.out.println("sadad");
-        System.out.println("1321");
+        System.out.println("123123");
     }
 }
 
