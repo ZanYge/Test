@@ -14,6 +14,7 @@ public class ThreadTest04 {
             Thread.yield();
         }
         System.out.println("11111");
+        System.out.println("sadad");
 
     }
 }
